@@ -46,11 +46,10 @@ I believe I had around 80.000 voice files (.WAV's) in 4 Languages to process. As
 Heads need to be solved into a template file at Speech Graphics. I could only get one Male and one Female rig get solved, so all faces in the game use one or the other. In maya I created a repository of Hi and Low poses in different moods for both the male and female template file in SGX's proprietary maya tool. 
 (Unfortunately I do not have a working lic anymore but here is a [demo Video from SGX](https://vimeo.com/841922761/48258cb5de) in case anyone is interested)
 
-Here is a quick video of an animated Head using a few speech files and wavs I still had in my backup:
-
-
-
 Any a quick demo of a few lines being applied to several different Faces:
+
+[![](http://img.youtube.com/vi/_JWZDS5ZSC8/0.jpg)](http://www.youtube.com/watch?v=_JWZDS5ZSC8 "A short video showing 3 Heads that are playing an automatically generated animation, created in SGX based a wavw file and a text transcript")
+
 
 
 ## Conclusion
